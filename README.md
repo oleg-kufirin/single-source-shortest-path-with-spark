@@ -2,8 +2,8 @@
 ## Assignment for *"Big Data Management"* class at UNSW
 ### Received mark: 25/25
 
-Consider a graph consisting of vertices/nodes, edges and weights for the edges.
-![Graph](/images/graph.png)
+Consider a graph consisting of vertices/nodes, edges and weights for the edges.  
+<img src="graph.png" alt="graph" width="300"/>
 
 A path in a graph can be defined as the set of consecutive nodes such that there is an edge from one node to the next node in the sequence. The shortest path between two nodes can be defined as the path that has the minimum total weight of the edges along the path. For example, the shortest path from Node 1 to Node 4 is Node1-> Node3 -> Node4 with the distance of 4. 
 
